@@ -1,0 +1,36 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+.venv/
+
+# База данных
+*.db
+*.db-journal
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+*.log
+
+# VS Code
+.vscode/
+.idea/
+
+# Файлы с секретами
+config.py
+.env
+*.token
+
+# Временные файлы
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
