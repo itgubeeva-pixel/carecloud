@@ -1,0 +1,132 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Как справиться с тревогой: 5 простых техник",
+      "excerpt": "Простые и эффективные способы снизить уровень тревожности прямо сейчас",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "tag": "стресс",
+      "category": "настроение",
+      "readTime": 5,
+      "author": "Анна Смирнова"
+    },
+    {
+      "id": 2,
+      "title": "Почему важен режим сна и как его наладить",
+      "excerpt": "Научные факты о сне и практические советы для улучшения качества отдыха",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55",
+      "tag": "сон",
+      "category": "сон",
+      "readTime": 7,
+      "author": "Дмитрий Волков"
+    },
+    {
+      "id": 3,
+      "title": "Дыхательные упражнения для быстрого успокоения",
+      "excerpt": "Техники дыхания, которые помогут за 5 минут снизить уровень стресса",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1506126279646-a697353d3166",
+      "tag": "дыхание",
+      "category": "стресс",
+      "readTime": 4,
+      "author": "Елена Преображенская"
+    },
+    {
+      "id": 4,
+      "title": "Как повысить уровень энергии без кофеина",
+      "excerpt": "Натуральные способы взбодриться и чувствовать себя энергичным весь день",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306",
+      "tag": "энергия",
+      "category": "энергия",
+      "readTime": 6,
+      "author": "Михаил Соколов"
+    },
+    {
+      "id": 5,
+      "title": "Медитация для начинающих: с чего начать",
+      "excerpt": "Пошаговое руководство по медитации для тех, кто никогда не пробовал",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "tag": "медитация",
+      "category": "настроение",
+      "readTime": 8,
+      "author": "Мария Иванова"
+    },
+    {
+      "id": 6,
+      "title": "Йога для снятия напряжения в спине",
+      "excerpt": "Простые асаны, которые помогут расслабиться после рабочего дня",
+      "content": "Полный текст статьи...",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b",
+      "tag": "йога",
+      "category": "энергия",
+      "readTime": 6,
+      "author": "Алексей Петров"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "10-минутная медитация для снятия стресса",
+      "channel": "Медитация для жизни",
+      "duration": "10:24",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["медитация", "стресс"],
+      "category": "медитация"
+    },
+    {
+      "id": 2,
+      "title": "Дыхательная практика для спокойного сна",
+      "channel": "Йога с Еленой",
+      "duration": "15:30",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["дыхание", "сон"],
+      "category": "дыхание"
+    },
+    {
+      "id": 3,
+      "title": "Как справиться с панической атакой",
+      "channel": "Психология просто",
+      "duration": "12:15",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["психология", "стресс"],
+      "category": "психология"
+    },
+    {
+      "id": 4,
+      "title": "Утренняя йога для энергии на весь день",
+      "channel": "Йога с Анной",
+      "duration": "20:00",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["йога", "энергия"],
+      "category": "йога"
+    },
+    {
+      "id": 5,
+      "title": "Почему мы тревожимся? Лекция психолога",
+      "channel": "Наука о мозге",
+      "duration": "35:42",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["психология"],
+      "category": "психология"
+    },
+    {
+      "id": 6,
+      "title": "5 минут дыхания для спокойствия",
+      "channel": "Практики осознанности",
+      "duration": "5:15",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["дыхание", "стресс"],
+      "category": "дыхание"
+    }
+  ]
+}
