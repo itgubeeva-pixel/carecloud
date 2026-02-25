@@ -20,9 +20,3 @@ Telegram бот для отслеживания ментального сост�
 - Pandas + Matplotlib
 - ReportLab
 
-## Установка
-
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/ВАШ-НИК/CareCloudBot.git
-cd CareCloudBot
