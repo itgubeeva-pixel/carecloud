@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CareCloud - Забота о себе</title>
+
+    # Подключаем стили
+    <link rel="stylesheet" href="style.css">
+
+    # Подключаем шрифт Inter от Google Fonts
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    # Шапка сайта с навигацией
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <span class="logo-icon">☁️</span>
+                <span class="logo-text">CareCloud</span>
+            </div>
+            <nav class="nav">
+                <a href="#stats" class="nav-link">Моя статистика</a>
+                <a href="#articles" class="nav-link">Статьи</a>
+                <a href="#videos" class="nav-link">Видео</a>
+            </nav>
+        </div>
+    </header>
+
+    # Секция со статистикой пользователя
+    <section id="stats" class="stats-section">
+        <div class="container">
+            <h2 class="section-title">📊 Мое состояние</h2>
+            <div class="stats-grid" id="stats-container">
+                <div class="loading">Загрузка...</div>
+            </div>
+        </div>
+    </section>
+
+    # Секция со статьями
+    <section id="articles" class="articles-section">
+        <div class="container">
+            <h2 class="section-title">📚 Полезные статьи</h2>
+
+            # Фильтры для статей
+            <div class="filter-tabs">
+                <button class="filter-btn active" data-filter="all">Все</button>
+                <button class="filter-btn" data-filter="настроение">😊 Настроение</button>
+                <button class="filter-btn" data-filter="сон">😴 Сон</button>
+                <button class="filter-btn" data-filter="стресс">😰 Стресс</button>
+                <button class="filter-btn" data-filter="энергия">⚡ Энергия</button>
+            </div>
+
+            # Контейнер для отображения статей
+            <div class="articles-grid" id="articles-container">
+                <div class="loading">Загрузка...</div>
+            </div>
+        </div>
+    </section>
+
+    # Секция с видео
+    <section id="videos" class="videos-section">
+        <div class="container">
+            <h2 class="section-title">🎥 Полезные видео</h2>
+
+            # Фильтры для видео
+            <div class="filter-tabs">
+                <button class="filter-btn active" data-filter="all">Все</button>
+                <button class="filter-btn" data-filter="медитация">🧘 Медитация</button>
+                <button class="filter-btn" data-filter="дыхание">🌬️ Дыхание</button>
+                <button class="filter-btn" data-filter="психология">🧠 Психология</button>
+                <button class="filter-btn" data-filter="йога">🧘‍♀️ Йога</button>
+            </div>
+
+            # Контейнер для отображения видео
+            <div class="videos-grid" id="videos-container">
+                <div class="loading">Загрузка...</div>
+            </div>
+        </div>
+    </section>
+
+    # Подвал сайта
+    <footer class="footer">
+        <div class="container">
+            <p>© 2026 CareCloud Bot | Забота о ментальном здоровье</p>
+            <p class="disclaimer">Информация на сайте не заменяет профессиональную медицинскую помощь</p>
+        </div>
+    </footer>
+
+    # Подключаем JavaScript
+    <script src="script.js"></script>
+</body>
+</html>

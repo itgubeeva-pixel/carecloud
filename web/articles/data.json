@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Как справиться с тревогой: 5 простых техник",
+      "excerpt": "Простые и эффективные способы снизить уровень тревожности прямо сейчас",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400",
+      "tag": "стресс",
+      "category": "стресс",
+      "readTime": 5,
+      "author": "Анна Смирнова"
+    },
+    {
+      "id": 2,
+      "title": "Почему важен режим сна и как его наладить",
+      "excerpt": "Научные факты о сне и практические советы для улучшения качества отдыха",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=400",
+      "tag": "сон",
+      "category": "сон",
+      "readTime": 7,
+      "author": "Дмитрий Волков"
+    },
+    {
+      "id": 3,
+      "title": "Дыхательные упражнения для быстрого успокоения",
+      "excerpt": "Техники дыхания, которые помогут за 5 минут снизить уровень стресса",
+      "image": "https://images.unsplash.com/photo-1506126279646-a697353d3166?w=400",
+      "tag": "дыхание",
+      "category": "стресс",
+      "readTime": 4,
+      "author": "Елена Преображенская"
+    },
+    {
+      "id": 4,
+      "title": "Как повысить уровень энергии без кофеина",
+      "excerpt": "Натуральные способы взбодриться и чувствовать себя энергичным весь день",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=400",
+      "tag": "энергия",
+      "category": "энергия",
+      "readTime": 6,
+      "author": "Михаил Соколов"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "10-минутная медитация для снятия стресса",
+      "channel": "Медитация для жизни",
+      "duration": "10:24",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["медитация", "стресс"],
+      "category": "медитация"
+    },
+    {
+      "id": 2,
+      "title": "Дыхательная практика для спокойного сна",
+      "channel": "Йога с Еленой",
+      "duration": "15:30",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["дыхание", "сон"],
+      "category": "дыхание"
+    },
+    {
+      "id": 3,
+      "title": "Как справиться с панической атакой",
+      "channel": "Психология просто",
+      "duration": "12:15",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "tags": ["психология", "стресс"],
+      "category": "психология"
+    }
+  ]
+}
